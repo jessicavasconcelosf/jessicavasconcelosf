@@ -1,16 +1,24 @@
-## Hi there 👋
+Olá! 👋 Eu sou a Jéssica Vasconcelos
 
-<!--
-**jessicavasconcelosf/jessicavasconcelosf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedora Full Stack em formação Rocketseat 
+🎓 Ciência da Computação - UNIP  
+🚀 Apaixonada por transformar ideias em código  
+📍 São José do Rio Preto - SP  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias que estou aprendendo
+- HTML, CSS, JavaScript
+- Node.js, Express
+- MySQL
+- Git e GitHub
+
+---
+
+### 📌 Projetos em destaque
+- [Site de Turismo](https://github.com/jessicavasconcelosf/turismo) 🌍
+
+---
+
+📫 **Entre em contato:**  
+[LinkedIn](https://www.linkedin.com/in/jessica-vasconcelos2409) | [Email](jehvasconcelos987@gmail.com)
